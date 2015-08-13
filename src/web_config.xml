@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<neptune>
+	<package>
+		<action name="addItem" class="com.framework.example.ItemAction"
+			method="addItem">
+			<result name="success">/add_item_suc.jsp</result>
+			<result name="fail">/add_item_fail.jsp</result>
+		</action>
+		<action name="addOrder"
+			class="com.framework.example.OrderAction" method="addOrder">
+			<result name="success">/add_item_suc.jsp</result>
+			<result name="fail">/add_item_fail.jsp</result>
+		</action>
+	</package>
+</neptune>
