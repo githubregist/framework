@@ -6,7 +6,7 @@ import org.framework.web.action.ActionContext;
 import org.framework.web.action.ActionSupport;
 
 /**
- * Action
+ * Action Demo
  */
 public class OrderAction extends ActionSupport {
 
