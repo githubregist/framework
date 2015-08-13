@@ -1,2 +1,2 @@
 # framework
-a struts like web framework
+a struts-like web framework
