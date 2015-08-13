@@ -5,6 +5,9 @@ import javax.servlet.http.HttpServletRequest;
 import org.framework.web.action.ActionContext;
 import org.framework.web.action.ActionSupport;
 
+/**
+ * Action
+ */
 public class OrderAction extends ActionSupport {
 
 	public String id;
